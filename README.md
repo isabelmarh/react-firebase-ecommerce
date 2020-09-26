@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `General info`
+Curso React JS de Coderhouse
+Proyecto Final E-commerce usando Hooks y Context API para state management 
+* Tienda online de telas
+
+## `Built With` 
+* Front-end: React JS, Sass, Material-UI 
+* Back-end: Firestore 
+
+## `Features` 
+* Catálogo de productos y categoría de dos colecciones (diseños lisas y estampadas)
+* Navegación al detalle de productos con la opción de incrementar y decrementar stock 
+* Carrito de compras 
+* Checkout y formulario 
+* Detalle de compra con order ID generado por Firestore
+
+## `Snapshots` 
+![one](https://user-images.githubusercontent.com/60557245/93729897-bb0eca00-fb9c-11ea-899c-92b0006ea5a9.png)
+![two](https://user-images.githubusercontent.com/60557245/93729901-bea25100-fb9c-11ea-8631-59d0b249cd6d.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -64,5 +84,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
