@@ -1,0 +1,20 @@
+.products-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.imgId {
+	object-fit: contain;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	max-width: 333px;
+}
+
+.spinner {
+	position: fixed;
+	top: 50%; 
+	left: 50%; 
+}

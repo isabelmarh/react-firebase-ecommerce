@@ -1,0 +1,38 @@
+.carrito {
+	width: 500px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	padding: 10px;
+
+	.form {
+		flex-direction: column;
+		padding: 10px;
+	  }	
+
+
+	p {
+		font-family: "Roboto", sans-serif;
+		margin: 10px 0 10px 0;
+		font-size: 16px;
+		border: 0;
+	}
+
+button {
+	border-radius: 5px;
+	border: 1px solid lightcoral;
+	padding: 7px;
+	background: transparent;
+	transition: 0.15s ease-in-out;
+	margin: 10px 0;
+	color: lightcoral;
+	margin-left: 25px;
+
+	&:hover {
+		cursor: pointer;
+		background: lightcoral;
+		color: white;
+	}
+}
+
+}
